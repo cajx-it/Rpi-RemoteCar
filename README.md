@@ -31,7 +31,7 @@ This robot can be controlled through a **Bluetooth gamepad** 🎮, while streami
 📸 Example setup:  
 
 <p align="center">
-  <img src="assets/robot.jpg" alt="Robot Setup" width="600"/>
+  <img src="assets/IMG_20250909_131731_329.jpg" alt="Robot Setup" width="600"/>
 </p>  
 
 ---
