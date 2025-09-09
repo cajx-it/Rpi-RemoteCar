@@ -17,7 +17,8 @@ This robot can be controlled through a **Bluetooth gamepad** 🎮, while streami
 - 🚗 **Motor Control** – forward, backward, left, right, stop  
 - 🎨 Toggle camera feed between **color and grayscale**
 
-![Demo](assets/5A33E3C6-689E-4D7D-B792-A5ECA565405C.mp4)
+<video src="assets/5A33E3C6-689E-4D7D-B792-A5ECA565405C.mp4" width="600" controls></video>
+
 
 ---
 
