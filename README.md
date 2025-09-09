@@ -4,7 +4,7 @@ A robotics project built with **Raspberry Pi Zero 2 W**, using **Python, OpenCV,
 This robot can be controlled through a **Bluetooth gamepad** 🎮, while streaming live video from the Pi Camera.  
 
 <p align="center">
-  <img src="assets/demo.png" alt="Robot Demo" width="600"/>
+  <img src="assets/IMG_20250909_131721_064.jpg" alt="Robot Demo" width="600"/>
 </p>  
 
 ---
