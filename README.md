@@ -53,3 +53,6 @@ This robot can be controlled through a **Bluetooth gamepad** 🎮, while streami
    ```bash
    git clone https://github.com/your-username/raspi-robot.git
    cd raspi-robot
+2. Make sure to connect the gamepad controller first, before running the code!
+3. Run the code.
+4. Access the live video in your browser.
